@@ -31,6 +31,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "docs", "docs", "{146E5D4A-B
 		README.md = README.md
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsertRecordInCMP", "InsertRegisterOnCMP\InsertRecordInCMP.csproj", "{1FF77747-F1ED-4B18-BCDB-94E7A78AE57C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{207932BC-077A-49F3-90B4-DA7C3E48CBA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{207932BC-077A-49F3-90B4-DA7C3E48CBA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{207932BC-077A-49F3-90B4-DA7C3E48CBA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FF77747-F1ED-4B18-BCDB-94E7A78AE57C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FF77747-F1ED-4B18-BCDB-94E7A78AE57C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FF77747-F1ED-4B18-BCDB-94E7A78AE57C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FF77747-F1ED-4B18-BCDB-94E7A78AE57C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -82,6 +88,7 @@ Global
 		{98CD0930-4F51-4245-AB46-3781CA0D7054} = {E02638DF-C5C2-4389-8AF8-97BF2A0666ED}
 		{2B3CD15C-5E66-41F9-AFC7-B49C48F47718} = {E02638DF-C5C2-4389-8AF8-97BF2A0666ED}
 		{207932BC-077A-49F3-90B4-DA7C3E48CBA5} = {34C302B9-9379-45E5-B648-22DFC7396F01}
+		{1FF77747-F1ED-4B18-BCDB-94E7A78AE57C} = {34C302B9-9379-45E5-B648-22DFC7396F01}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {20CD382D-F5A7-404C-9D33-486026D99E76}
