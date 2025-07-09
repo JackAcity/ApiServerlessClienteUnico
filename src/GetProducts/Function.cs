@@ -22,7 +22,6 @@ namespace GetProducts;
         private readonly IProductsDao _dataAccess;
         private readonly IOptions<JsonSerializerOptions> _jsonOptions;
         private readonly ILogger<Function> _logger;
-
         public Function() : this(Startup.ServiceProvider) { }
 
         public Function(

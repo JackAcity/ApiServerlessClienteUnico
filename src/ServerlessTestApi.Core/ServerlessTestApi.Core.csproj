@@ -5,4 +5,8 @@
     <RootNamespace>ServerlessTestApi.Core</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Domain\" />
+  </ItemGroup>
+
 </Project>
